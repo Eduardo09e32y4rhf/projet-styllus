@@ -14,7 +14,7 @@ Este projeto consiste em uma página web (landing page) que apresenta os serviç
 
 ## 📂 Estrutura de Pastas
 
-O código fonte principal encontra-se dentro do diretório `projet/projet`.
+O código fonte principal encontra-se na raiz do projeto.
 
 - `assets/`: Imagens e ícones utilizados no projeto.
 - `css/`: Arquivos de estilo CSS (globais, variáveis e componentes).
@@ -25,7 +25,7 @@ O código fonte principal encontra-se dentro do diretório `projet/projet`.
 
 1. Clone este repositório.
 2. Navegue até a pasta do projeto.
-3. Abra o arquivo `projet/projet/index.html` em seu navegador de preferência.
+3. Abra o arquivo `index.html` em seu navegador de preferência.
 
 ## 👤 Autor
 
